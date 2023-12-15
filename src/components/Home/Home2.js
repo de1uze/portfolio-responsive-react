@@ -19,37 +19,24 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+             Im into web Development.
+             With a strong foundation in HTML, CSS, and React, I am passionate about leveraging these skills to create visually stunning and user-friendly websites.I am committed to continuous learning and growth in the dynamic field of web development. I am excited to contribute my expertise to innovative projects and collaborate with like-minded professionals to deliver exceptional web experiences.
+            
+
+          
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Websites </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                 Cyber Security
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+             
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,14 +47,14 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/de1uze"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +64,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +74,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/pratik9423/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +84,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/dominoexe"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
