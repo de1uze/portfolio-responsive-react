@@ -34,10 +34,10 @@ function Projects() {
             <ProjectCard
               imgPath={zen}
               isBlog={false}
-              title="Ed-Tech Student Platform"
-              description="A simple Student Dashboard with Login and Sign-up functionality. A replica of ZEN Class Student Dashboard using React              "
-              ghLink="https://github.com/de1uze/Zenclass-Dashboard"
-              demoLink="https://zenclass-dashboard-de1uze.vercel.app/"
+              title="E-commerce Website"
+              description="An ecommerce website made using react             "
+              ghLink="https://github.com/de1uze/eKart"
+              demoLink="https://ekart-17la.onrender.com"
             />
           </Col>
 
