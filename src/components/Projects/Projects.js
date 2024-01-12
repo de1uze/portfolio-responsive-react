@@ -6,6 +6,7 @@ import foodlify from "../../Assets/Projects/foodlify.png";
 import gym from "../../Assets/Projects/gym.png";
 import netflix from "../../Assets/Projects/netflix.png";
 import zen from "../../Assets/Projects/zen.png";
+import travelgo from "../../Assets/travelgo.png";
 
 function Projects() {
   return (
@@ -40,7 +41,16 @@ function Projects() {
               demoLink="https://ekart-17la.onrender.com"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={travelgo}
+              isBlog={false}
+              title="Travel Go (travelling website)"
+              description="A responsive travel/tourism website built using reactJS Tutorials based"
+              ghLink="https://github.com/de1uze/travelgo"
+              demoLink="https://travelgo-dzq5.onrender.com"              
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={netflix}
